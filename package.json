@@ -2,7 +2,7 @@
   "name": "gulp-extract-text",
   "version": "1.0.1",
   "description": "By Ralph Crisostomo - 2016/04/05",
-  "main": "dist/index.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
